@@ -1,4 +1,4 @@
-<h1 align="center">Arte Acessível</h1>
+<h1 align="center">Arte Acessível: Uma Análise Comparativa de Arquiteturas de Detecção de Obras de Arte</h1>
 <p align="justify">A detecção de objetos utilizando visão computacional tem se mostrado uma ferramenta muito poderosa em diversas áreas, incluindo a acessibilidade para pessoas com deficiência visual. Esse trabalho foca na comparação arquiteturas de redes neurais convolucionais(YOLOv8, YOLOv11, RetinaNet e Faster R-CNN) para detecção de obras pintadas, com o objetivo de avaliar sua viabilidade para aplicações de dispositivos móveis.  Os resultados demonstraram que os modelos YOLOv8 e YOLOv11 apresentaram  um desempenho superior em termo de precisão média (mAP) e recall, com um bom consumo de recursos durante o treinamento e tempo de inferência.</p>
 <h2 align="center">Documentação</h2>
 <p>Para a iniciar o projeto, deve-se começar pela criação do dataset.</p>
