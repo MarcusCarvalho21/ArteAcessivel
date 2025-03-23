@@ -1,0 +1,38 @@
+albucore==0.0.20
+albumentations==1.4.21
+annotated-types==0.7.0
+beautifulsoup4==4.12.3
+bing-image-downloader==1.1.2
+bs4==0.0.2
+certifi==2024.8.30
+charset-normalizer==3.4.0
+eval_type_backport==0.2.0
+idna==3.10
+labelImg==1.8.6
+lxml==5.2.1
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
+pillow @ file:///C:/b/abs_32o8er3uqp/croot/pillow_1721059447598/work
+ply @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ply_1699473999871/work
+pydantic==2.10.1
+pydantic_core==2.27.1
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.15.0
+PyYAML==6.0.2
+requests==2.32.3
+scipy==1.14.1
+setuptools==75.1.0
+simsimd==6.1.1
+sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/sip_1699475590677/work
+six==1.16.0
+soupsieve==2.6
+stringzilla==3.10.10
+typing_extensions==4.12.2
+urllib3==2.2.3
+wheel==0.44.0
