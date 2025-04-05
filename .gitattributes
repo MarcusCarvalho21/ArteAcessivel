@@ -1,0 +1,2 @@
+/ModelosTreinados/FasterRCNN50.pth filter=lfs diff=lfs merge=lfs -text
+/ModelosTreinados/RetinaNet50.pth filter=lfs diff=lfs merge=lfs -text
